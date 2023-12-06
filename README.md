@@ -1,2 +1,3 @@
-# ContactUs-JobApplicationPrototype
-An idea for a get in touch section for the website. That allows interested parties to contact the company or send a job application in one convenient spot.
+# ContactUs/JobApplication Prototype
+
+An idea for a get in touch section for the website. Empowers interested parties to connect with the company directly to either contact them or send a job application in one convenient spot, helps reduce cognitive load and streamlines overall website experience.
